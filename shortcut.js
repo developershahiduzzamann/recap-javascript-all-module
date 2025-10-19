@@ -13,5 +13,5 @@ if(isPased){
     console.log('toke diye kichu hobe na');
 }
 else{
-    console.log('tor biye hobe')
+    console.log('tor biye hobe');
 }  
